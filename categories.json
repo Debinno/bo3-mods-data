@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "General Discussion",
+    "description": "Discuss anything related to BO3 mods",
+    "topics": 15,
+    "posts": 45
+  },
+  {
+    "id": 2,
+    "name": "Mod Releases",
+    "description": "Share and discuss new mods",
+    "topics": 30,
+    "posts": 120
+  },
+  {
+    "id": 3,
+    "name": "Tutorials",
+    "description": "Learn how to create and use mods",
+    "topics": 10,
+    "posts": 50
+  },
+  {
+    "id": 4,
+    "name": "Bug Reports",
+    "description": "Report and discuss mod-related bugs",
+    "topics": 5,
+    "posts": 20
+  }
+]

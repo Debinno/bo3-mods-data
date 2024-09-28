@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "topicId": 1,
+    "author": "ModEnthusiast",
+    "date": "2023-04-01",
+    "content": "Glad to be here! Looking forward to learning more about BO3 modding."
+  },
+  {
+    "id": 2,
+    "topicId": 2,
+    "author": "ZombieFan",
+    "date": "2023-04-02",
+    "content": "This map looks amazing! Can't wait to try it out."
+  },
+  {
+    "id": 3,
+    "topicId": 3,
+    "author": "Beginner",
+    "date": "2023-04-03",
+    "content": "Thanks for the tutorial! It's really helpful for newcomers like me."
+  },
+  {
+    "id": 4,
+    "topicId": 4,
+    "author": "ExperiencedModder",
+    "date": "2023-04-04",
+    "content": "Can you provide more details about the crash? Any error messages?"
+  }
+]

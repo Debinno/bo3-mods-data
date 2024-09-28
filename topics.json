@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "title": "Welcome to BO3 Mods",
+    "author": "Admin",
+    "date": "2023-04-01",
+    "replies": 5,
+    "content": "Welcome to the BO3 Mods forum! Feel free to discuss anything related to Black Ops 3 modding here."
+  },
+  {
+    "id": 2,
+    "categoryId": 2,
+    "title": "New Zombies Map: Lunar Base",
+    "author": "ModMaster",
+    "date": "2023-04-02",
+    "replies": 10,
+    "content": "Check out my new Zombies map set on a lunar base! Download link in the first reply."
+  },
+  {
+    "id": 3,
+    "categoryId": 3,
+    "title": "How to create custom weapons",
+    "author": "WeaponGuru",
+    "date": "2023-04-03",
+    "replies": 8,
+    "content": "In this tutorial, I'll show you how to create custom weapons for BO3."
+  },
+  {
+    "id": 4,
+    "categoryId": 4,
+    "title": "Crash when loading custom map",
+    "author": "NewModder",
+    "date": "2023-04-04",
+    "replies": 3,
+    "content": "I'm experiencing a crash when trying to load my custom map. Can anyone help?"
+  }
+]
